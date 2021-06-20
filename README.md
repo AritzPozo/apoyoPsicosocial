@@ -38,8 +38,12 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 
 ##### Estructura página:
 - Index / Home
+- Banner de proteccion de datos personales y uso de cookies
 - Directorio de instituciones de salud pública.
 - Buscador: Edad, género, como te sientes. Para sacar el tipo de ayuda.
 - Foro discusión, compartir, etc. (tipo foro)
 - Cuenta de usario: Datos, perfil, contacto, historico, etc.
 - Formulario  sobre que problema  presenta para poder dirigirla a algun enlace de ayuda
+- Blog acerca de Salud Psicosocial y temas relacionados
+- Enlaces a Recursos Externos ( publicaciones, videos)
+- Chat con historico de conversaciones con un profesional de la salud.
