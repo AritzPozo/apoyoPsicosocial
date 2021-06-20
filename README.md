@@ -42,3 +42,4 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Buscador: Edad, género, como te sientes. Para sacar el tipo de ayuda.
 - Foro discusión, compartir, etc. (tipo foro)
 - Cuenta de usario: Datos, perfil, contacto, historico, etc.
+- Formulario  sobre que problema  presenta para poder dirigirla a algun enlace de ayuda
