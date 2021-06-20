@@ -1,5 +1,13 @@
 # apoyoPsicosocial
 Proyecto Innosocial: aplicación de apoyo psicosocial.
+## Propuesta nombre:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
 ## Google Forms
 ###### Objetivos
 - Puede ser un lugar como fiverr en donde puedas agendar terapias con psicólogos (creo que ya existe)
