@@ -10,6 +10,8 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Atención de situaciones psicosociales de las persona. 
 - Ayudar a los que cuentan con problemas psicológicos sin importar edad o problema, tener una reunión privada y que al terminar las sesiones las personas apoyadas se sientan cómodos con uno mismo.
 - Brindar atención psicológica fácil y directa
+- Tips para tratar los ataques de ansiedad.
+- Psicólogos especializados en el tema del suicidio así como una sección "anti suicidios"
 
 ###### Funcionalidades
 - Una red social que conecte terapeutas de todo tipo con clientes potenciales
@@ -47,4 +49,5 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Blog acerca de Salud Psicosocial y temas relacionados
 - Enlaces a Recursos Externos ( publicaciones, videos)
 - Chat con historico de conversaciones con un profesional de la salud.
+- Chat donde se muestren psicólogos disponibles para tratar ataques de ansiedad.
 - Sección temas de interés relacionados al apoyo psicosocial.
