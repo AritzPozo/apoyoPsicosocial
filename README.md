@@ -32,6 +32,7 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Ficha prof. salud mental/terapeuta
 - Buscador
 - Sección de temas de interés: ¿Que es depresión?, ansiedad, etc.
+- Seccion para anexar materiales (por tema de interes) que permitan complementar la ayuda a mas personas.
 
 ##### Imperativos legales:
 - Términos de uso
@@ -51,3 +52,4 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Chat con historico de conversaciones con un profesional de la salud.
 - Chat donde se muestren psicólogos disponibles para tratar ataques de ansiedad.
 - Sección temas de interés relacionados al apoyo psicosocial.
+- Sección actividades o recursos por temas de interes.
