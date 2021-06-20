@@ -12,7 +12,7 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Brindar atención psicológica fácil y directa
 
 ###### Funcionalidades
-- una red social que conecte terapeutas de todo tipo con clientes potenciales
+- Una red social que conecte terapeutas de todo tipo con clientes potenciales
 - Encontrar fácilmente que es lo que sientes como ansiedad, etc. Y dependiendo de la circunstancia que se pueda contactar a una línea de atención especializada 
 - Proporcionar contactos de personas profesionales para la ayuda de la salud mental,  de manera confiable y clara.
 - Implementación de conceptos, de ayuda psicológica para que las personas puedan identificarse. 
@@ -29,11 +29,11 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Ficha usuario/paciente: ⚠️ ¡Disclaimer! ¡(exorto de responsabilidad)
 - Ficha prof. salud mental/terapeuta
 - Buscador
-- 
+- Sección de temas de interés: ¿Que es depresión?, ansiedad, etc.
 
 ##### Imperativos legales:
 - Términos de uso
-- POlíticas de cookies
+- Políticas de cookies
 - Políticas de privacidad
 
 ##### Estructura página:
@@ -47,3 +47,4 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Blog acerca de Salud Psicosocial y temas relacionados
 - Enlaces a Recursos Externos ( publicaciones, videos)
 - Chat con historico de conversaciones con un profesional de la salud.
+- Sección temas de interés relacionados al apoyo psicosocial.
