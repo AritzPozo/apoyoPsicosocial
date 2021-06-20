@@ -53,3 +53,10 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Chat donde se muestren psicólogos disponibles para tratar ataques de ansiedad.
 - Sección temas de interés relacionados al apoyo psicosocial.
 - Sección actividades o recursos por temas de interes.
+
+## Apariencia
+Fondo Blanco
+fondo con imagenes colores no muy fuertes
+botones Menus colores #148D8B
+animal gallo blanco
+objeto fisico jarron
