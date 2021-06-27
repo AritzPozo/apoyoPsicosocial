@@ -3,10 +3,10 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 ## Propuesta nombre:
 1. psiconect mx
 2. happy mx
-3. 
-4.
-5.
-6.
+3. nube mx
+4. mente mx
+5. solv
+6. simente
 7.
 ## Google Forms
 ###### Objetivos
