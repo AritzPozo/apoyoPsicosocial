@@ -8,6 +8,7 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 5. solv
 6. simente
 7. voluntario mx
+8. psychologytalk
 ## Google Forms
 ###### Objetivos
 - Puede ser un lugar como fiverr en donde puedas agendar terapias con psicólogos (creo que ya existe)
