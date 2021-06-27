@@ -2,7 +2,7 @@
 Proyecto Innosocial: aplicación de apoyo psicosocial.
 ## Propuesta nombre:
 1. psiconect mx
-2. 
+2. happy mx
 3. 
 4.
 5.
